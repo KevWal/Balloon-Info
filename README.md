@@ -1,7 +1,9 @@
 # Balloon-Info
  High Altitude Balloon Calculators and Info.
  
- Float Altitude Calculations.  Original 'float1g' calc here:  https://ukhas.org.uk/doku.php?id=projects:splat
+## Float Calculations.  
+
+Original 'float1g' calc here:  https://ukhas.org.uk/doku.php?id=projects:splat
  
 |Balloon|Volume|Empty Weight|Burst[^1]|Max Free Lift|Stretch|Flights|
 |:-----:|:----:|:----------:|:---:|:-----------:|:-----:|:-----:|
@@ -13,4 +15,14 @@
 |Orbz 35"| |5g|
 
 [^1]:Aproximate pressure the balloon will burst at.
+
+## Burst Calculations.
+
+https://sondehub.org/calc/
+
+http://www.randomengineering.co.uk/Random_Aerospace/Balloons.html
+
+Original 'burst1a' calc here: https://github.com/ukhas/cusf-burst-calc
+
+Original 'burst3' calc and lots of balloon data here:  https://ukhas.org.uk/doku.php?id=guides:balloon_data
 
