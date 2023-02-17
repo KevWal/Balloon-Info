@@ -11,7 +11,7 @@ Original 'float1g' calc here:  https://ukhas.org.uk/doku.php?id=projects:splat
 |Chinese 36"|	|38g|0.6psi|7g| | |			
 |Grabo 36"|148ltrs|44.5g| | | | |	|				
 |Yoko 36" Old|270ltrs|	|0.5psi|8g| | |			
-|Yoko 36" New|270ltrs|48.6g|0.5psi|8g|Stretch to 100" circumference|28g payload - 10.3KM+
+|Yoko 36" New|270ltrs|48.6g|0.5psi|8g|Stretch to 100" circumference|28g payload - 10.3KM+<BR>40g payload - 10km|
 |Orbz 35"| |5g|
 
 [^1]:Aproximate pressure the balloon will burst at.
