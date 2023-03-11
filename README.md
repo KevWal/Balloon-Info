@@ -5,6 +5,8 @@
 
 Original 'float1g' calc here:  https://ukhas.org.uk/doku.php?id=projects:splat
 
+Pico group balloon data here:  https://groups.io/g/picoballoon/table?id=38275
+
 |Balloon|Volume|Empty Weight|Max Free Lift[1]|Stretch|Flights|Purchase[2]|
 |:-----:|:----:|:----------:|:---:|:-----------:|:-----:|:-----:|
 |Qualtex Silver 36" (2016 & 2018-08)|120ltrs|37g|2.5g| | |
