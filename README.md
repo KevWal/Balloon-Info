@@ -14,11 +14,14 @@ Pico group balloon data here:  https://groups.io/g/picoballoon/table?id=38275
 |Chinese Clear 36"|	|38g|7g| | |[Aliexpress](https://www.aliexpress.com/item/32699218436.html?spm=a2g0s.8937460.0.0.412b2e0eYoFE03)|
 |Grabo Silver 36"|145ltrs|44.5g|2.5g| | | |	|				
 |Yoko 32" Old|240 to 270ltrs|41g|8g| | |			
-|Yoko 32" New|240 to 270ltrs|48.6g|8g|Stretch to 100" circumference|7g payload - 13.5km<BR>28g payload - 10.3KM+<BR>40g payload - 10km|[Yokohama](https://yokohamaballoon.com/products/sphere-balloon32inch?variant=41763086729369)|
+|Yoko 32" New[3]|240 to 270ltrs|48.6g|8g|Stretch to 100" circumference|7g payload - 13.5km<BR>28g payload - 10.3KM+<BR>40g payload - 10km|[Yokohama](https://yokohamaballoon.com/products/sphere-balloon32inch?variant=41763086729369)|
 |Sag Silver / Orbz 35"|240 ltrs|46g|5g|
 
 [1] Maximum sensible value, would suggest 10% lower for safety
+
 [2] Or from the UK http://www.randomengineering.co.uk/Random_Aerospace/Balloons.html
+
+[3] Cheaper way to ship Yoko here: https://traquito.github.io/faq/balloons/buying/ 
  
 ## Burst Calculations.
 
